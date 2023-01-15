@@ -1,0 +1,4 @@
+name: RedisChat
+version: '${project.version}'
+main: org.me.redischat.RedisChat
+api-version: 1.15
